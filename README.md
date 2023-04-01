@@ -1,5 +1,7 @@
 # Doc
 
+Research of Freelance job posting I did this but unfortunately didn't get the project
+
 ## Useful links
 
 **A4 page like layout in html**
